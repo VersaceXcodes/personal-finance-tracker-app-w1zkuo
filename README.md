@@ -1,2 +1,3 @@
-# personal-finance-tracker-app-w1zkuo
-Generated project for personal-finance-tracker-app
+# personal-finance-tracker-app
+
+This is the README for personal-finance-tracker-app.
